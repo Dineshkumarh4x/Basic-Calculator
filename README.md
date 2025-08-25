@@ -1,6 +1,6 @@
 # Basic Calculator
 
-A simple calculator written in Python.
+A simple calculator written in Java.
 
 ## Features
 - Addition
